@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Servidor de autenticação Discord para integração com Wix",
   "main": "discord-auth.js",
-  "type": "module",
   "scripts": {
     "start": "node discord-auth.js"
   },
